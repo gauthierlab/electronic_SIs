@@ -1,0 +1,1 @@
+The purpose of this repository is to archive electronic supporting information files for public use. The motivation for starting this really stemmed from certain publishers being woefully unprepared to handle uploading of documents like this, or being generally unwilling to host anything beyond the bare minimum datasets. 
